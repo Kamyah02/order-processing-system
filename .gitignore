@@ -2,7 +2,3 @@ target/
 .idea/ 
 *.iml 
 out/ 
-*.log 
-target/ 
-.idea/ 
-*.iml 
